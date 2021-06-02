@@ -5,6 +5,10 @@
   box-sizing: bodrer-box;
 }
 body {
+  background-image: url('https://images.freeimages.com/images/large-previews/588/oxbow-bend-turnout-1362724.jpg');
+  background-size: cover;
+  background-position: center center;
+  min-height: 100vh;
   font-family: "Popins", sans-serif;
   margin: 0;
 }
