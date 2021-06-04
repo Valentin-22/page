@@ -7,9 +7,6 @@
   font-style: normal;
 }
 
-.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
-    background-color: #8064A2 !important;
-}
 
 html {
   font-family: sans-serif;
@@ -38,3 +35,9 @@ body {
   margin: 0;
 }
 
+#footer {
+  padding: 5em 0;
+  background: #fafafa;
+  background: #fff;
+  line-height: 1.5;
+}
