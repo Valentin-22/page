@@ -8,7 +8,13 @@
 }
 
 
-
+.drop-shadow {
+        float: right;
+      }
+      .drop-shadow img {
+        filter: drop-shadow(7px 7px 7px #666666);
+        -webkit-filter: drop-shadow(7px 7px 7px #666666);
+      }
 
 /* Page content */
 .content {
