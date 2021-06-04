@@ -15,9 +15,12 @@ html {
 }
 
 header {
-  background:#2c3e50;
-  color:#fff;
+  padding: 5em 0;
+  background: #fafafa;
+  background: #fff;
+  line-height: 1.5;
 } 
+
 .main {
     background:#f2f2f2;
 }
@@ -39,5 +42,5 @@ body {
   padding: 5em 0;
   background: #fafafa;
   background: #fff;
-  line-height: 1.5;
+  line-height: 1.2;
 }
