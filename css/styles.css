@@ -7,6 +7,9 @@
   font-style: normal;
 }
 
+img {
+   padding-bottom: 25px;
+ }
 
 #c {
   text-shadow: 7px 7px 7px #FFFAFA;
@@ -17,7 +20,6 @@
 .box-shadow {
         float: left;
         box-shadow: 7px 7px 7px #666666;
-        padding-bottom: 25px;
 }
 
 /* Page content */
