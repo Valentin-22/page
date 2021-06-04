@@ -7,6 +7,9 @@
   font-style: normal;
 }
 
+p, div {margin: 0px; padding: 0px; border: 10px;}
+p {padding: 10px;}
+
 #c {
   text-shadow: 7px 7px 7px #FFFAFA;
  }
