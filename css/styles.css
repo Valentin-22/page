@@ -7,6 +7,12 @@
   font-style: normal;
 }
 
+.navbar-fixed-top {
+position: fixed;
+right: 0;
+left: 0;
+z-index: 999;
+}
 
 html {
   font-family: sans-serif;
