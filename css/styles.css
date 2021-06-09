@@ -7,11 +7,6 @@
   font-style: normal;
 }
 
-element.style {
-position: fixed;
-top: 0;
-width:100;
-}
 
 row {
   margin-top: 15px; 
@@ -60,6 +55,9 @@ header {
   padding: 10px 16px;
   background:#2c3e50;
   color:#fff;
+  position: fixed;
+  top: 0;
+  width:100;
 } 
 
 .main {
