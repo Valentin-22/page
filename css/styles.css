@@ -7,6 +7,11 @@
   font-style: normal;
 }
 
+a {
+color: white; 
+text-align:center;
+}
+
 
 row {
   margin-top: 15px; 
