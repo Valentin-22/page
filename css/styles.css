@@ -21,16 +21,22 @@ row {
 
 #myHeader { margin-bottom: 100px; }
 
-#d {
-  margin-top: 15px;
-  text-align:center; 
 
-}
 
 #c {
   padding: 10px;
   
  }
+
+#d {
+  margin-top: 15px;
+  text-align:center; 
+
+}
+#e {
+  text-align:center; 
+
+}
 
 .box-shadow {
 
